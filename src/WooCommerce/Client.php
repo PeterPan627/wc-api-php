@@ -100,6 +100,8 @@ class Client
      *
      * @param string $endpoint API endpoint.
      *
+     * 
+     * 
      * @return \stdClass
      */
     public function options($endpoint)
